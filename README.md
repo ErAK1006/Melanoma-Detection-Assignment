@@ -12,13 +12,14 @@ CNN based model which can accurately detect melanoma. Melanoma is a type of canc
 To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
 ## Conclusions
-   precision    recall  f1-score   support
+                              precision    recall  f1-score   support
 
          actinic keratosis       0.72      0.79      0.75       121
       basal cell carcinoma       0.86      0.79      0.82       155
             dermatofibroma       0.94      0.93      0.94       140
                   melanoma       0.73      0.73      0.73       183
                      nevus       0.86      0.74      0.80       180
+                     
 pigmented benign keratosis       0.77      0.88      0.82       189
       seborrheic keratosis       0.70      0.73      0.72       121
    squamous cell carcinoma       0.80      0.82      0.81       112
