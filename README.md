@@ -21,9 +21,13 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
                      nevus       0.86      0.74      0.80       180
                      
 pigmented benign keratosis       0.77      0.88      0.82       189
+
       seborrheic keratosis       0.70      0.73      0.72       121
+      
    squamous cell carcinoma       0.80      0.82      0.81       112
+   
            vascular lesion       0.97      0.95      0.96       146
+          
 
                   accuracy                           0.82      1347
                  macro avg       0.82      0.82      0.82      1347
