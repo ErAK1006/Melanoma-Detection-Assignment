@@ -34,8 +34,8 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 ## Acknowledgements
 Give credit here.
 - References if any Upgrad
-- This project was based on [this tutorial]([https://www.example.com](https://augmentor.readthedocs.io/en/master/)).
 
 ## Contact
 Created by [@ErAK1006] - feel free to contact me!
+
 https://github.com/ErAK1006/Melanoma-Detection-Assignment
